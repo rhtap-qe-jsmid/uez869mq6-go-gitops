@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: uez869mq6-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/uez869mq6-go-gitops
